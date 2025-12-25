@@ -1,0 +1,22 @@
+export const CARDS = [
+  { id: 1, name: "Knight", image: "knight.png" },
+  { id: 2, name: "Archers", image: "archers.png" },
+  { id: 3, name: "Giant", image: "giant.png" },
+  { id: 4, name: "Wizard", image: "wizard.png" },
+  { id: 5, name: "Valkyrie", image: "valkyrie.png" },
+  { id: 6, name: "Hog Rider", image: "hog-rider.png" },
+  { id: 7, name: "Mini P.E.K.K.A", image: "mini-pekka.png" },
+  { id: 8, name: "Musketeer", image: "musketeer.png" },
+  { id: 9, name: "Baby Dragon", image: "baby-dragon.png" },
+  { id: 10, name: "Prince", image: "prince.png" },
+  { id: 11, name: "Dark Prince", image: "dark-prince.png" },
+  { id: 12, name: "Electro Wizard", image: "electro-wizard.png" },
+  { id: 13, name: "Bandit", image: "bandit.png" },
+  { id: 14, name: "Bowler", image: "bowler.png" },
+  { id: 15, name: "Executioner", image: "executioner.png" },
+  { id: 16, name: "Mega Knight", image: "mega-knight.png" },
+  { id: 17, name: "Inferno Dragon", image: "inferno-dragon.png" },
+  { id: 18, name: "Lumberjack", image: "lumberjack.png" },
+  { id: 19, name: "Night Witch", image: "night-witch.png" },
+  { id: 20, name: "Royal Ghost", image: "royal-ghost.png" }
+];
